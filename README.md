@@ -17,7 +17,7 @@ I'm a beginner programmer, currently learning and exploring different programmin
 
 📫 Get in touch:
 - GitHub: [@samicode01](https://github.com/samicode01)
-
+- LinkedIn: [Samin](https://www.linkedin.com/in/samincode01/)
  📊 GitHub Stats:
 
 ![Samin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samincode01&show_icons=true&theme=radical))
