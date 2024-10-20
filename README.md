@@ -20,7 +20,7 @@ I'm a beginner programmer, currently learning and exploring different programmin
 
  📊 GitHub Stats:
 
-![Samin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samicode01&show_icons=true&theme=radical)
+![Samin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samincode01&show_icons=true&theme=radical))
 
 ---
 
