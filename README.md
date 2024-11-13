@@ -27,6 +27,7 @@ I'm a beginner programmer, currently learning and exploring different programmin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samincode01&layout=donut-vertical&theme=radical)
 
 ![Profile views](https://komarev.com/ghpvc/?username=samincode01)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=samincode01)
 ---
 
