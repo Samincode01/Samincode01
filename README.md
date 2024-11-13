@@ -23,11 +23,10 @@ I'm a beginner programmer, currently learning and exploring different programmin
 
 ![Samin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samincode01&show_icons=true&theme=radical))
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samincode01&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samincode01&layout=donut-vertical&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samincode01&layout=donut-vertical&theme=radical)
 
-
+![Profile Views](https://profile-counter.glitch.me/username/count.svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=samincode01)]
-
 ---
 
 Feel free to check out my projects and give suggestions for improvement. Let's connect and learn together!
