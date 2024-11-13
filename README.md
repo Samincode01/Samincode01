@@ -27,7 +27,7 @@ I'm a beginner programmer, currently learning and exploring different programmin
 
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samincode01&theme=github_dark)
 
-![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=samincode01&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samincode01&layout=donut-vertical)]
 ---
 
 Feel free to check out my projects and give suggestions for improvement. Let's connect and learn together!
