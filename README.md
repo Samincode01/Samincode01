@@ -8,7 +8,7 @@ I'm a beginner programmer, currently learning and exploring different programmin
 - Tools: Git, Visual Studio Code, GCC Compiler
 
 🚀 Currently Working On:
-- **Improving C Programming Skills**: Just finished learning switch statements and moving on to the next concepts.
+- Enhancing my C programming skills through hands-on projects and advanced topics like data structures and algorithms.
 
 🌱 Learning Goals:
 - Dive deeper into advanced C concepts
