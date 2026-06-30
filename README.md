@@ -1,19 +1,28 @@
-Hello, I'm Samin 👋
+# Hello, I'm Tarif Hasan Samin 👋
 
-I'm a beginner programmer, currently learning and exploring different programming languages and concepts. I'm particularly interested in C programming and gradually expanding my knowledge to other areas.
+I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real products and continuously improving my skills by working on practical projects and exploring new technologies.
 
-🛠️ Technologies & Tools:
-- Programming languages: C, C++
-- Learning about: Algorithms, Data Structures, Problem Solving
-- Tools: Git, Visual Studio Code, GCC Compiler
+## 🛠️ Technologies & Tools
 
-🚀 Currently Working On:
-- Enhancing my C programming skills through hands-on projects and advanced topics like data structures and algorithms.
+* **Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, DaisyUI
+* **Backend:** Node.js, Express.js, REST API Development, JWT Authentication
+* **Database:** MongoDB
+* **Programming:** C, C++, Data Structures & Algorithms
+* **Tools:** Git, GitHub, Visual Studio Code
 
-🌱 Learning Goals:
-- Dive deeper into advanced C concepts
-- Explore other languages like Python, JavaScript
-- Contribute to open-source projects
+## 🚀 Featured Projects
+
+* **Fitverse** – Fitness Management SaaS Platform
+* **DriveFleet** – Car Rental Platform
+* **KeenKeeper** – Friendship Management Platform
+* **Book House** – Online Book Renting Platform
+
+## 🌱 Currently Learning
+
+* Advanced Next.js and scalable application architecture
+* AI-assisted development workflows
+* n8n automation and AI agents
+* Modern frontend performance optimization
 
 📫 Get in touch:
 - GitHub: [@samicode01](https://github.com/samicode01)
