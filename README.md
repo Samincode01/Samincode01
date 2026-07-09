@@ -72,6 +72,7 @@ I'm a Frontend Developer passionate about building modern, responsive, and user-
 </p>
 
 📧 **Email:** samin990bd@gmail.com
+---
 📫 Get in touch:
 - GitHub: [@samicode01](https://github.com/samicode01)
 - LinkedIn: [@samincode01](https://www.linkedin.com/in/samincode01/)
