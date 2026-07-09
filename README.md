@@ -1,29 +1,77 @@
-# Hello, I'm Tarif Hasan Samin 👋
+<!-- Banner -->
+<p align="center">
+  <img src="[YOUR_BANNER_IMAGE_LINK](https://media.licdn.com/dms/image/v2/D5616AQEkdqGZp-k0fA/profile-displaybackgroundimage-shrink_350_1400/B56Zz2X8jXHwAY-/0/1773659999397?e=1785369600&v=beta&t=8o6-2mBKa8mQVyOPllRUOL08WGRm_qjBERcng8OCzk4)" alt="Banner" width="100%" />
+</p>
 
-I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real products and continuously improving my skills by working on practical projects and exploring new technologies.
+<h1 align="center">Hi, I'm Tarif Hasan Samin 👋</h1>
+<h3 align="center">Frontend Developer | React.js | Next.js | MongoDB</h3>
 
-## 🛠️ Technologies & Tools
+---
 
-* **Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, DaisyUI
-* **Backend:** Node.js, Express.js, REST API Development, JWT Authentication
-* **Database:** MongoDB
-* **Programming:** C, C++, Data Structures & Algorithms
-* **Tools:** Git, GitHub, Visual Studio Code
+## 👨‍💻 About Me
+
+I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into functional products using React.js, Next.js, and modern web technologies. I continuously improve my skills by building real-world projects and exploring new development tools and best practices.
+
+---
+
+## 🚀 Current Activities
+
+- 🌱 Exploring advanced Next.js features and App Router
+- 🤖 Learning AI-assisted development workflows and n8n automation
+- 💪 Building and improving full-stack web applications
+- 📚 Solving programming problems to strengthen problem-solving skills
+
+---
+
+## 🛠️ Skills
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 💻 Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
-* **Fitverse** – Fitness Management SaaS Platform
-* **DriveFleet** – Car Rental Platform
-* **KeenKeeper** – Friendship Management Platform
-* **Book House** – Online Book Renting Platform
+- **Fitverse** – Fitness Management SaaS Platform
+- **DriveFleet** – Car Rental Platform
+- **KeenKeeper** – Friendship Management Platform
+- **Book House** – Online Book Renting Platform
 
-## 🌱 Currently Learning
+---
 
-* Advanced Next.js and scalable application architecture
-* AI-assisted development workflows
-* n8n automation and AI agents
-* Modern frontend performance optimization
+## 🌐 Connect with Me
 
+<p>
+  <a href="https://github.com/Samincode01">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/tarif-hasan-samin/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+📧 **Email:** samin990bd@gmail.com
 📫 Get in touch:
 - GitHub: [@samicode01](https://github.com/samicode01)
 - LinkedIn: [@samincode01](https://www.linkedin.com/in/samincode01/)
