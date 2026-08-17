@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQEkdqGZp-k0fA/profile-displaybackgroundimage-shrink_350_1400/B56Zz2X8jXHwAY-/0/1773659999397?e=1785369600&v=beta&t=8o6-2mBKa8mQVyOPllRUOL08WGRm_qjBERcng8OCzk4" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/HT7zW3j8/1773659999397.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Tarif Hasan Samin 👋</h1>
