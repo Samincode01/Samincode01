@@ -83,18 +83,16 @@ I'm a Frontend Developer passionate about building modern, responsive, and user-
 
 <div align="center">
 
-  <!-- GitHub Stats -->
   <img
-    src="https://github-stats-extended.vercel.app/api?username=samincode01&show_icons=true&theme=radical"
-    alt="Samin's GitHub Stats"
-    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=samincode01&show_icons=true&theme=radical&hide_border=true"
+    alt="GitHub Stats"
+    width="48%"
   />
 
-  <!-- Top Languages -->
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=samincode01&layout=donut-vertical&theme=radical"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=samincode01&layout=donut-vertical&theme=radical&hide_border=true"
     alt="Top Languages"
-    height="180"
+    width="48%"
   />
 
 </div>
@@ -103,11 +101,10 @@ I'm a Frontend Developer passionate about building modern, responsive, and user-
 
 <div align="center">
 
-  <!-- Profile Details / Contribution Graph -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samincode01&theme=github_dark"
     alt="GitHub Contribution Graph"
-    width="90%"
+    width="96%"
   />
 
 </div>
@@ -116,27 +113,9 @@ I'm a Frontend Developer passionate about building modern, responsive, and user-
 
 <div align="center">
 
-  <!-- Profile Views -->
   <img
     src="https://komarev.com/ghpvc/?username=samincode01&label=Profile%20Views&color=blue&style=flat"
     alt="Profile Views"
   />
 
 </div>
-
-<br />
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=samincode01&theme=radical&no-frame=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-Feel free to check out my projects and give suggestions for improvement.
-
-**Let's connect, build, and learn together! 🚀**
