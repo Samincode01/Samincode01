@@ -1,16 +1,25 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/HT7zW3j8/1773659999397.jpg" alt="Banner" width="100%" />
+  <img 
+    src="https://i.ibb.co.com/HT7zW3j8/1773659999397.jpg" 
+    alt="Tarif Hasan Samin Banner" 
+    width="100%" 
+  />
 </p>
 
 <h1 align="center">Hi, I'm Tarif Hasan Samin 👋</h1>
-<h3 align="center">Frontend Developer | React.js | Next.js | MongoDB</h3>
+
+<h3 align="center">
+  Frontend Developer | React.js | Next.js | MongoDB
+</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into functional products using React.js, Next.js, and modern web technologies. I continuously improve my skills by building real-world projects and exploring new development tools and best practices.
+I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
+
+I enjoy transforming ideas into functional products using **React.js, Next.js, and modern web technologies**. I continuously improve my skills by building real-world projects and exploring new development tools and best practices.
 
 ---
 
@@ -28,25 +37,25 @@ I'm a Frontend Developer passionate about building modern, responsive, and user-
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Frontend Skills" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" />
 </p>
 
 ### 💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp" />
+  <img src="https://skillicons.dev/icons?i=c,cpp" alt="Programming Languages" />
 </p>
 
 ### 🧰 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
 </p>
 
 ---
@@ -60,33 +69,74 @@ I'm a Frontend Developer passionate about building modern, responsive, and user-
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
-<p>
-  <a href="https://github.com/Samincode01">
-    <img src="https://skillicons.dev/icons?i=github" />
+<p align="left">
+  <a href="https://github.com/samincode01">
+    <img 
+      src="https://skillicons.dev/icons?i=github" 
+      alt="GitHub" 
+      height="40"
+    />
   </a>
+
   <a href="https://www.linkedin.com/in/tarif-hasan-samin/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img 
+      src="https://skillicons.dev/icons?i=linkedin" 
+      alt="LinkedIn" 
+      height="40"
+    />
   </a>
 </p>
 
 📧 **Email:** samin990bd@gmail.com
----
-📫 Get in touch:
-- GitHub: [@samicode01](https://github.com/samicode01)
-- LinkedIn: [@samincode01](https://www.linkedin.com/in/samincode01/)
 
- 📊 GitHub Stats:
+- 🔗 GitHub: [@samincode01](https://github.com/samincode01)
+- 💼 LinkedIn: [Tarif Hasan Samin](https://www.linkedin.com/in/tarif-hasan-samin/)
 
-![Samin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samincode01&show_icons=true&theme=radical))
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samincode01&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samincode01&layout=donut-vertical&theme=radical)
-
-![Profile views](https://komarev.com/ghpvc/?username=samincode01)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=samincode01)
 ---
 
-Feel free to check out my projects and give suggestions for improvement. Let's connect and learn together!
+# 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=samincode01&show_icons=true&theme=radical" 
+    alt="Samin's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samincode01&theme=github_dark" 
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samincode01&layout=donut-vertical&theme=radical" 
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=samincode01&label=Profile%20Views&color=blue&style=flat" 
+    alt="Profile Views"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=samincode01&theme=radical&no-frame=true&margin-w=10" 
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+Feel free to check out my projects and give suggestions for improvement.
+
+**Let's connect, build, and learn together! 🚀**
