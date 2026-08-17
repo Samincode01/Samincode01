@@ -63,7 +63,7 @@ I'm a Frontend Developer passionate about building modern, responsive, and user-
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://github.com/Samincode01">
+  <a href="https://github.com/samincode01">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://www.linkedin.com/in/tarif-hasan-samin/">
@@ -72,36 +72,28 @@ I'm a Frontend Developer passionate about building modern, responsive, and user-
 </p>
 
 📧 **Email:** samin990bd@gmail.com
+
 ---
+
 📫 Get in touch:
-- GitHub: [@samicode01](https://github.com/samicode01)
+
+- GitHub: [@samincode01](https://github.com/samincode01)
 - LinkedIn: [@samincode01](https://www.linkedin.com/in/samincode01/)
 
- 📊 GitHub Stats:
-
-![Samin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samincode01&show_icons=true&theme=radical))
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samincode01&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samincode01&layout=donut-vertical&theme=radical)
-
-![Profile views](https://komarev.com/ghpvc/?username=samincode01)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=samincode01)
 ---
 
-Feel free to check out my projects and give suggestions for improvement. Let's connect and learn together!
+# 📊 GitHub Stats
 
-but this part isnt working. please correct the whole code and give
- 📊 GitHub Stats:
+![Samin's GitHub Stats](https://github-stats-extended.vercel.app/api?username=samincode01&show_icons=true&theme=radical)
 
-![Samin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samincode01&show_icons=true&theme=radical))
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samincode01&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samincode01&layout=donut-vertical&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=samincode01&layout=donut-vertical&theme=radical)
 
 ![Profile views](https://komarev.com/ghpvc/?username=samincode01)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=samincode01)
+![GitHub Trophies](./profile/trophy.svg)
+
 ---
 
 Feel free to check out my projects and give suggestions for improvement. Let's connect and learn together!
