@@ -126,16 +126,12 @@ I'm a Frontend Developer passionate about building modern, responsive, and user-
 
 <br />
 
-<div align="center">
-
-  <!-- GitHub Trophies -->
+<p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=samincode01&theme=radical&no-frame=true&margin-w=10"
     alt="GitHub Trophies"
-    width="90%"
   />
-
-</div>
+</p>
 
 ---
 
