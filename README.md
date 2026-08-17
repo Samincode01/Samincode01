@@ -77,45 +77,31 @@ I'm a Frontend Developer passionate about building modern, responsive, and user-
 - GitHub: [@samicode01](https://github.com/samicode01)
 - LinkedIn: [@samincode01](https://www.linkedin.com/in/samincode01/)
 
+ 📊 GitHub Stats:
+
+![Samin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samincode01&show_icons=true&theme=radical))
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samincode01&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samincode01&layout=donut-vertical&theme=radical)
+
+![Profile views](https://komarev.com/ghpvc/?username=samincode01)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=samincode01)
 ---
 
-# 📊 GitHub Stats
+Feel free to check out my projects and give suggestions for improvement. Let's connect and learn together!
 
-<div align="center">
+but this part isnt working. please correct the whole code and give
+ 📊 GitHub Stats:
 
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=samincode01&show_icons=true&theme=radical&hide_border=true"
-    alt="GitHub Stats"
-    width="48%"
-  />
+![Samin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samincode01&show_icons=true&theme=radical))
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samincode01&theme=github_dark)
 
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=samincode01&layout=donut-vertical&theme=radical&hide_border=true"
-    alt="Top Languages"
-    width="48%"
-  />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samincode01&layout=donut-vertical&theme=radical)
 
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=samincode01)
 
-<br />
+![trophy](https://github-profile-trophy.vercel.app/?username=samincode01)
+---
 
-<div align="center">
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samincode01&theme=github_dark"
-    alt="GitHub Contribution Graph"
-    width="96%"
-  />
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <img
-    src="https://komarev.com/ghpvc/?username=samincode01&label=Profile%20Views&color=blue&style=flat"
-    alt="Profile Views"
-  />
-
-</div>
+Feel free to check out my projects and give suggestions for improvement. Let's connect and learn together!
